@@ -2,7 +2,6 @@
 
 # No final, nosso programa deve exibir uma mensagem para o usuário, caso ele tenha inserido o CPF inválido.
 
-
 cpf = input('Insira seu CPF')
 
 cpf = cpf.strip()
