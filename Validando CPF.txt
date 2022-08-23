@@ -1,4 +1,7 @@
-# Tratando os possíveis casos onde o usuário digita o CPF com traços, pontos ou informação númerica errada.
+# Objetivo do projeto é "tratar" o que o usuário inserir para padronizar o CPF dele em apenas números, além da verificação de tamanho do CPF com 11 caracteres.
+
+# No final, nosso programa deve exibir uma mensagem para o usuário, caso ele tenha inserido o CPF inválido.
+
 
 cpf = input('Insira seu CPF')
 
